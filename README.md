@@ -4,7 +4,7 @@
 </div>
 
 Hi, I’m @Pieronilucas!
-I'm 23 years old and residing in Divinópolis, Brazil. Still learning and improving as a Java Developer and a Computer Science student.
+I'm 23 years old and currently residing in Divinópolis, Brazil. Still learning and improving as a Java Developer and Computer Science student.
 
 ## Tools and technologies
 
