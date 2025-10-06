@@ -10,11 +10,3 @@ I'm 23 years old and currently residing in Divinópolis, Brazil. Still learning 
 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg"  width="40" height="40"/><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" height="40"/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
-
-![Snake animation](https://github.com/Pieronilucas/Pieronilucas/blob/output/github-contribution-grid-snake-dark.svg)
-
