@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Hi there! I'm Lucas Pieroni 👋<br>I'm a CS student and aspiring C# Developer from Divinópolis, Brazil 🇧🇷.<br><br>💻 Focus: Currently strengthening my skills in C# and .NET ecosystem.<br><br>📚 Learning: Continuously studying software architecture and clean code.<br><br>☕ Personal: Powered by coffee and cat cuddles.
 
 ## 🌐 Socials:
